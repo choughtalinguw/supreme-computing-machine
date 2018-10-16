@@ -13,7 +13,7 @@ Make a Google sheets, list the tasks, who will do it, and use color indication t
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Via our Google sheet, we plan to use color indication to show our group members what we are currently working (yellow) on and what we have completed (green). 
 
 
 ## How will will communicate difficulties with a task assigned to us
