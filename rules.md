@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+Make a Google sheets, list the tasks, who will do it, and use color indication to declare progress. Use the sheet to check-in on a routine basis.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
