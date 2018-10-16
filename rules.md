@@ -9,15 +9,15 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-Make a Google sheets, list the tasks, who will do it, and use color indication to declare progress. Use the sheet to check-in on a routine basis.
+Make a Google Sheets, list the tasks, who will do it, and use color indication to declare progress. Use the sheet to check-in on a routine basis.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-Via our Google sheet, we plan to use color indication to show our group members what we are currently working (yellow) on and what we have completed (green). 
+Via our Google Sheet, we plan to use color indication to show our group members what we are currently working (yellow) on and what we have completed (green). 
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+We will talk through our text group chat and make comments about any difficulties we are facing in our Google Sheet. In addition, we will be communicating through the comments in our code.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
