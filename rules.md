@@ -21,7 +21,7 @@ We will talk through our text group chat and make comments about any difficultie
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-Establish checkpoints and communicate in our group chat on what tasks need to be done and when in order to sure that we all stay on track. 
+Establish checkpoints and communicate in our group chat on what tasks need to be done when in order to sure that we all stay on track. 
 
 ## Add any other rules that your team establishes to help each other work effectively together
 
