@@ -12,9 +12,9 @@
        * GitHub username 3: ctfloyd        name 3: Caleb Floyd
        * GitHub username 4: tkirchberger   name 4: Thomas Kirchberger
    * When did you complete this exercise? 
-   October 16, 2018
+   October 16, 2018  
    * How long did it take your team to complete this exercise? 
-   1 hour
+   1 hour  
 
 ## Table of Contents
 
