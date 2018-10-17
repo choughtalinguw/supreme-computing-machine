@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Students today are facing a big issue: not knowing where to sit in lectures. Many days, students feel like they have to come to lecture extremely early in order to sit in their desired seat. This causes a big pile-up outside of the lecture hall and causes a huge traffic jam when the students in the previous lecture are still attempting to leave and there are other students in the next lecture piled up at the door. In addition, many students reserve seats for their friends, making it hard for others to get their desired seats when a large group of students decides to change the row they are sitting in for a given lecture. Also, many times there are not enough seats open for students or they don't want to distrub others who are already sitting in the seats, so these students will go to the back of the lecture room and sit on the floor. Showing up late to lecture is plays a role in this issue and causes unnecessary stress due to the fact that they have to find a seat or interrupt other students' notetaking in order to work their way to an open seat in the middle of the row. With this program, students will not have to face these issues anymore.
 
 ## Questions to answer for Exercise #2
 
