@@ -33,11 +33,11 @@ Students today are facing a big issue: not knowing where to sit in lectures. Man
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. Name: Give your project proposal a name (and edit the top line of this file)<br/>
 Seat Selector
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. Output: Describe the output your program will produce.  <br/>Include and example format of the output produced.
 A user interface that displays avaialable and taken seats. Available seats will be in green and taken seats will be in red. There will be a confirmation upon sucessful reservation of your seat. You may also request a list of available or taken seats as a text represenatation. You will be able to lookup where a friend is sitting and request a seat next to them if available.
 
 
