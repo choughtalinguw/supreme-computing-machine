@@ -54,7 +54,7 @@ Our interface will mainly consist of an outline of the student's selected lectur
 * LectureHall Class - The layout of the lecture halls at UW-Madison
 * Seat Class (custom data structure) - Holds information regarding the seat number, assigned student, whether it's taken or not.
 * UI Class - Creates and updates the UI 
-* Main - Starting, setting up, and running routines of the program.
+* Main - Starting, setting up, and running routines of the program
 
 
 ## Edit and Submit this file and any figures referenced by this document.
