@@ -51,10 +51,9 @@ Our interface will mainly consist of an outline of the student's selected lectur
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.<br/>
-
-
-
-Name each interface or class and briefly describe its function or purpose.
+* LectureHall Class - The layout of the lecture halls at UW-Madison
+* Seat Class (custom data structure) - Holds information regarding the seat number, assigned student, whether it's taken or not.
+* UI Class - Creates and updates the UI 
 
 
 ## Edit and Submit this file and any figures referenced by this document.
