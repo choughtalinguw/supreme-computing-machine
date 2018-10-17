@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
+# xteam-exercise-2: https://github.com/choughtalinguw/supreme-computing-machine
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
@@ -7,13 +7,14 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
+       * GitHub username 1: choughtalinguw name 1: Charles Houghtaling
+       * GitHub username 2: amyeblossom    name 2: Amy Blossom
+       * GitHub username 3: ctfloyd        name 3: Caleb Floyd
+       * GitHub username 4: tkirchberger   name 4: Thomas Kirchberger
    * When did you complete this exercise? 
+   October 16, 2018
    * How long did it take your team to complete this exercise? 
+   1 hour
 
 ## Table of Contents
 
