@@ -37,20 +37,20 @@ Students today are facing a big issue: not knowing where to sit in lectures. Man
 Seat Selector
 
 
-2. Output: Describe the output your program will produce.  <br/>Include and example format of the output produced.
+2. Output: Describe the output your program will produce. Include and example format of the output produced.<br/>
 A user interface that displays avaialable and taken seats. Available seats will be in green and taken seats will be in red. There will be a confirmation upon sucessful reservation of your seat. You may also request a list of available or taken seats as a text represenatation. You will be able to lookup where a friend is sitting and request a seat next to them if available.
 
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.<br/>
+The layout of the lecture hall will be needed as input, which can also be used as the user interface. A student will be able to sign in and select a seat from the user interface which will automatically load in their name, student ID, and seat selection. When a student is absent, a student will be able to send in an excuse note as input.
+
+
+4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.<br/>
 
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
-
-
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.<br/>
 
 
 
