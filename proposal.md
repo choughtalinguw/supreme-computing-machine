@@ -47,7 +47,7 @@ The layout of the lecture hall will be needed as input, which can also be used a
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.<br/>
-
+Our interface will mainly consist of an outline of the student's selected lecture hall with information regarding the reservation status of the seats within the lecture hall. The seats that have already been reserved will be in red, and avaliable seats will be shown green. To help students locate their friends in the class, there will be a search bar in the upper right corner. In the upper left corner, there is a box containing seat details when a student chooses a seat. If the student clicks on a green seat, they will be able to see who is sitting there, what seat number they selected, and what time the seat was reserved at (red seats - figure 1). If a student chooses a green seat, they will see what seat number it is and have the option to reserve the seat (green seats - figure 2).
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.<br/>
